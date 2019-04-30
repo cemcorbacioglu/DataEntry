@@ -1,0 +1,5 @@
+221,Ayse Demir,TipFakultesi
+PubMed comprrises more than 28 mllion citetions for biomadical
+literature from MEDLINE, life science journals, and onlne boks.
+Citations may include links to full-text content from PubMed
+Central and publisher web sites.
